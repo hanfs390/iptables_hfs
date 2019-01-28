@@ -1,4 +1,6 @@
-#include "hfs_iptables.h"
+#include <stdio.h>
+#include "ip6tables_hfs.h"
+#include "iptables_hfs.h"
 
 int main()
 {
