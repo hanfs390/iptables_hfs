@@ -1,0 +1,5 @@
+*.o
+hfs_iptables
+tags
+
+./iptables
