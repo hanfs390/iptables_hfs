@@ -10,3 +10,4 @@ cd ../iptables-1.4.21
 make
 sudo make install
 
+sudo iptables -nvL
