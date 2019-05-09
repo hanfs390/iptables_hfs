@@ -5,7 +5,7 @@ cd libnftnl
 make
 sudo make install
 
-cd ../iptables
+cd ../iptables-1.4.21
 ./configure
 make
 sudo make install
